@@ -255,6 +255,12 @@ public class ArrayRelated {
         System.out.println("Max sum: " + maxSum);
     }
 
+    public static int noOfTriplets(int[] numberArr){
+        int result = 0;
+
+        return result;
+    }
+
     public static void printArray(int[] numbers) {
         Arrays.stream(numbers).forEach(System.out::println);
     }
